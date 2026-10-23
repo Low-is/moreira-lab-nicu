@@ -46,15 +46,19 @@ The discovery analysis focuses on samples collected during the first week of lif
 ## Definitions of BPD
 | Author and Year | Definition |
 |-----------------|------------|
-| Shennan et al, 1988<sub>4</sub> | Use of supplemental oxygen at 36 weeks PMA |
-| NIH consensus, 2001 | Oxygen use for 28 days (not consecutive), with severity based on amount of supplemental oxygen and mode of respiratory support at 36 weeks PMA; mild (room air), moderate (< 30% supplemental oxygen), severe (⪰ 30% supplemental oxygen and/or positive pressure) |
-| Walsh et al, 2004 | Receipt of positive pressure or supplemental oxygen at 36 weeks PMA. In infants receiving ≤ 30% oxygen via blood or nasal cannula, a stepwise room air challenge test is performed. Failure of the room air challenge, or need for mechanical ventilation and/or positive pressure are classified as BPD |
-| Isayama et al, 2017 | Use of oxygen and/or respiratory support (including invasive and non-invasive support) at 40 weeks PMA |
+| Shennan et al, 1988<sup>4</sup> | Use of supplemental oxygen at 36 weeks PMA |
+| NIH consensus, 2001<sup>5</sup> | Oxygen use for 28 days (not consecutive), with severity based on amount of supplemental oxygen and mode of respiratory support at 36 weeks PMA; mild (room air), moderate (< 30% supplemental oxygen), severe (⪰ 30% supplemental oxygen and/or positive pressure) |
+| Walsh et al, 2004<sup>6</sup> | Receipt of positive pressure or supplemental oxygen at 36 weeks PMA. In infants receiving ≤ 30% oxygen via blood or nasal cannula, a stepwise room air challenge test is performed. Failure of the room air challenge, or need for mechanical ventilation and/or positive pressure are classified as BPD |
+| Isayama et al, 2017<sup>7</sup> | Use of oxygen and/or respiratory support (including invasive and non-invasive support) at 40 weeks PMA |
 | NICHD workshop, 2018 | Supplemental oxygen or positive pressure at 36 weeks PMA along with radiographic evidence of parenchymal lung disease, irrespective or prior duration of oxygen supplementation. Incorporates 3 grades of severity depending on levels of supplemental oxygen and mode of support |
-| Jensen et al, 2019 | Any respiratory support at 36 weeks PMA, irrespective of prior duration or current level of oxygen therapy. Further categorized according to disease severity: grade 1, nasal cannula at flow rates ≤ 2L/min; grade 2, nasal cannula at flow rates > 2L/min or non-invasive positive airway pressure; and grade 3, invasive mechanical ventilation |
+| Jensen et al, 2019<sup>8</sup> | Any respiratory support at 36 weeks PMA, irrespective of prior duration or current level of oxygen therapy. Further categorized according to disease severity: grade 1, nasal cannula at flow rates ≤ 2L/min; grade 2, nasal cannula at flow rates > 2L/min or non-invasive positive airway pressure; and grade 3, invasive mechanical ventilation |
 
 ## References
 1. Hennelly M, Greenberg RG, and Aleem S. An Update on the Prevention and Management of Bronchopulmonary Dysplasia. Pediatric Health, Medicine and Therapeutics. 2021;12 405-419. https://doi.org/10.2147/PHMT.S287693. 
 2. Thébaud B, Goss KN, Laughon M, Whitsett JA, et al. Bronchopulmonary dysplasia. Disease Primers. 2019;5:78. https://doi.org/10.1038/s41572-019-0127-7.
 3. David S, Meltzer P (2007). GEOquery: a bridge between the Gene Expression Omnibus (GEO) and Bioconductor. _Bioinformatics_, *14*, 1846-1847. doi:10.1093/bioinformatics/btm254.
-4. Shennan AT
+4. Shennan AT, Dunn MS, Ohlsson A, Lennox K, Hoskins EM. Abnormal pulmonary outcomes in premature infants: prediction from oxygen requirement in the neonatal period. _Pediatrics_. 1988;82(4):527-532.
+5. Jobe AH, Bancalari E. Bronchopulmonary dysplasia. _Am J Respir Crit Care Med_. 2001;163(7):1723-1729.
+6. Walsh MC, Yao Q, Gettner P, et al. Impact of a physiologic definition of bronchopulmonary dysplasia rates. _Pediatrics_. 2004;114(5):1305-1311.
+7. Isayama T, Lee SK, Yang J, et al. Revisiting the definition of bronchopulmonary dysplasia: effect of changing panoply of respiratory support for preterm neonates. _JAMA Pediatr_. 2017;171(3):271-279.
+8. Jensen EA, Dysart K, Gantz MG, et al. The diagnosis of bronchopulmonary dysplasia in very preterm infants: an evidence-based approach. _Am J Respir Crit Care Med_. 2019;200(6):751-759.
