@@ -12,10 +12,10 @@ Each project is organized in its own directory, with project-specific documentat
 
 For questions about the research projects, analysis code, or data documented in this repository, please contact:
 
-Lois Randolph
-Data Scientist
-Johns Hopkins Children's Center
-Johns Hopkins University
-Email: lrando11@jh.edu
+- Lois Randolph
+- Data Scientist
+- Johns Hopkins Children's Center
+- Johns Hopkins University
+- Email: lrando11@jh.edu
 
 For questions specific to an individual project, please refer to the contact information provided in that project's README, if applicable. 
