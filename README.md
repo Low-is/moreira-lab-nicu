@@ -12,7 +12,7 @@ Each project is organized in its own directory, with project-specific documentat
 
 For questions about the research projects, analysis code, or data documented in this repository, please contact:
 
-Lois Randolph<br>
+Lois Randolph, M.S.<br>
 Data Scientist<br>
 Johns Hopkins Children's Center<br>
 Johns Hopkins University<br>
