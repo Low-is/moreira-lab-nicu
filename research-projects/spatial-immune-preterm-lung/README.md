@@ -9,3 +9,22 @@ This project investigates how developmental age and lung injury shape immune cel
 
 
 ## Cohort Characteristics
+| Sample Name | Age at Birth | Life Span | Age at Death | COD | DX |
+--------------------------------------------------------------------
+| PDL001 | 16 weeks | 0 weeks | 16 weeks | Not viable | n/a |
+| PDL002 | 18 weeks | 0 weeks | 18 weeks | Not viable | n/a |
+| PDL003 | 21 weeks | 0 weeks | 21 weeks | Prematurity | 1 |
+| PDL004 | 23 weeks | 7 weeks | 30 weeks | Necrotizing enterocolitis | 1 |
+| PDL005 | 24 weeks | 0 weeks | 24 weeks | Prematurity | 3 |
+| PDL006 | 24 weeks | 0 weeks | 24 weeks | Prematurity | 0 |
+| PDL007 | 26 weeks | 2 weeks | 28 weeks | Pulmonary Hypoplasia | 1 |
+| PDL008 | 27 weeks | 16 weeks | 43 weeks | BPD | 2 |
+| PDL009 | 28 weeks | 3 weeks | 31 weeks | congenital heart disease | 2 |
+| PDL010 | 34 weeks | 4 weeks | 38 weeks | Meningitis | 3 |
+| PDL011 | 35 weeks | 0 weeks | 35 weeks | Encephalopathy | 0 |
+| PDL012 | 40 weeks | 0 weeks | 40 weeks | Encephalopathy | 0 |
+| PDL013 | 36 weeks | 0 weeks | 36 weeks | Encephalitis | 0 |
+| PDL014 | 29 weeks | 0 weeks | 29 weeks | CHAOS syndrome | n/a |
+| PDL015 | 33 weeks | 0 weeks | 33 weeks | Pulmonary hypoplasia | n/a |
+| PDL016 | 35 weeks | 28 weeks | 63 weeks | ARB fetopathy (severe BPD) | n/a |
+| PDL017 | 28 weeks | 30 years | n/a | BPD (explant of adult with BPD) | n/a |
