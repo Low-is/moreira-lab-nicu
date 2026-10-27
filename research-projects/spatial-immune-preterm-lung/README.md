@@ -1,7 +1,7 @@
 # Developmental and Injury-Associated Variation in the Neonatal Pulmonary Immune Compartment. A Donor-Level Spatial Transcriptomic Analysis
 
 <p align="center">
-  <img src = "images/Graphical-Abstract.png" alt="Graphical Abstract" width="100%">
+  <img src = "images/Graphical_Abstract_editable.png" alt="Graphical Abstract" width="100%">
 </p>
 
 ## Overview
