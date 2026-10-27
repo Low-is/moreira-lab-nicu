@@ -71,6 +71,6 @@ To access either file, visit the GEO accession page linked above and locate the 
 
 - Sampah MES, Hackam DJ. Dysregulated Mucosal Immunity and Associated Pathogeneses in Preterm Neonates. Front Immunol 11, 2020. doi: 10.3389/FIMMU.2020.00899.
 
-Humberg A, Fortmann I, Siller B, Kopp MV, Herting E, Göpel W, Härtel C. Preterm birth and sustained inflammation: consequences for the neonate. Semin Immunopathol 42: 451–468, 2020. doi: 10.1007/S00281-020-00803-2.
+- Humberg A, Fortmann I, Siller B, Kopp MV, Herting E, Göpel W, Härtel C. Preterm birth and sustained inflammation: consequences for the neonate. Semin Immunopathol 42: 451–468, 2020. doi: 10.1007/S00281-020-00803-2.
 
-Honda A, Hoeksema MA, Sakai M, Lund SJ, Lakhdari O, Butcher LD, Rambaldo TC, Sekiya NM, Nasamran CA, Fisch KM, Sajti E, Glass CK, Prince LS. The Lung Microenvironment Instructs Gene Transcription in Neonatal and Adult Alveolar Macrophages. J Immunol 208: 1947–1959, 2022. doi: 10.4049/JIMMUNOL.2101192.
+- Honda A, Hoeksema MA, Sakai M, Lund SJ, Lakhdari O, Butcher LD, Rambaldo TC, Sekiya NM, Nasamran CA, Fisch KM, Sajti E, Glass CK, Prince LS. The Lung Microenvironment Instructs Gene Transcription in Neonatal and Adult Alveolar Macrophages. J Immunol 208: 1947–1959, 2022. doi: 10.4049/JIMMUNOL.2101192.
