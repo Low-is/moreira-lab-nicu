@@ -9,7 +9,7 @@ This project investigates how developmental age and lung injury shape immune cel
 
 
 ## Cohort Characteristics
-| Sample Name | Age at Birth | Life Span | Age at Death | COD | DX |
+| Sample Name | Age at Birth | Life Span | Age at Death | COD | Disease Score (DX) |
 |-------------|--------------|-----------|--------------|-----|----|
 | PDL001 | 16 weeks | 0 weeks | 16 weeks | Not viable | n/a |
 | PDL002 | 18 weeks | 0 weeks | 18 weeks | Not viable | n/a |
@@ -28,3 +28,5 @@ This project investigates how developmental age and lung injury shape immune cel
 | PDL015 | 33 weeks | 0 weeks | 33 weeks | Pulmonary hypoplasia | n/a |
 | PDL016 | 35 weeks | 28 weeks | 63 weeks | ARB fetopathy (severe BPD) | n/a |
 | PDL017 | 28 weeks | 30 years | n/a | BPD (explant of adult with BPD) | n/a |
+
+*_COD_: **Characteristics of Disease**
