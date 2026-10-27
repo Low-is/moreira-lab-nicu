@@ -1,5 +1,9 @@
 # Conserved Biological Programs Associated with Bronchopulmonary Dysplasia Across Early Life
 
+<p align="center">
+  <img src="images/graphical_abstract.jpg" alt="Graphical Abstract" width="100%">
+</p>
+
 ## Overview
 
 Bronchopulmonary dysplasia (BPD) is a major complication of prematurity associated with aberrant alveolar and vascular development of the lungs resulting in impaired gas exchange[1]. Understanding the biological processes associated with BPD across early life may help characterize disease-associated molecular patterns, clinical phenotypes, and identify molecular architectures that will help in the development of effective therapies and impact the incidence of BPD.
