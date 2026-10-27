@@ -51,25 +51,25 @@ To access either file, visit the GEO accession page linked above and locate the 
 
 
 # Citations
-Mallapragada S, Lyu R, Williams-Katek AL, Fischer BK, Vannan A, Hadad N, Mee ED, Shirazi SP, Jetter CS, Negretti NM, Hilgendorff A, Eldredge LC, Deutsch GH, McCarthy DJ, Kropski JA, Sucre JMS, Banovich NE. A spatial transcriptomic atlas of acute neonatal lung injury across development and disease severity. bioRxiv [Preprint]. 2025 Jun 5:2025.06.02.656433. doi: 10.1101/2025.06.02.656433. Update in: Am J Physiol Lung Cell Mol Physiol. 2025 Sep 1;329(3):L376-L388. doi: 10.1152/ajplung.00191.2025. PMID: 40502191; PMCID: PMC12157373.
+- Mallapragada S, Lyu R, Williams-Katek AL, Fischer BK, Vannan A, Hadad N, Mee ED, Shirazi SP, Jetter CS, Negretti NM, Hilgendorff A, Eldredge LC, Deutsch GH, McCarthy DJ, Kropski JA, Sucre JMS, Banovich NE. A spatial transcriptomic atlas of acute neonatal lung injury across development and disease severity. bioRxiv [Preprint]. 2025 Jun 5:2025.06.02.656433. doi: 10.1101/2025.06.02.656433. Update in: Am J Physiol Lung Cell Mol Physiol. 2025 Sep 1;329(3):L376-L388. doi: 10.1152/ajplung.00191.2025. PMID: 40502191; PMCID: PMC12157373.
 
-Lal CV, Travers C, Aghai ZH, Eipers P, Jilling T, Halloran B, Carlo WA, Keeley J, Rezonzew G, Kumar R, Morrow C, Bhandari V, Ambalavanan N. The Airway Microbiome at Birth. Sci Rep 6, 2016. doi: 10.1038/SREP31023.
+- Lal CV, Travers C, Aghai ZH, Eipers P, Jilling T, Halloran B, Carlo WA, Keeley J, Rezonzew G, Kumar R, Morrow C, Bhandari V, Ambalavanan N. The Airway Microbiome at Birth. Sci Rep 6, 2016. doi: 10.1038/SREP31023.
 
-De Biasi S, Neroni A, Nasi M, Lo Tartaro D, Borella R, Gibellini L, Lucaccioni L, Bertucci E, Lugli L, Miselli F, Bedetti L, Neri I, Ferrari F, Facchinetti F, Berardi A, Cossarizza A. Healthy preterm newborns: Altered innate immunity and impaired monocyte function. Eur J Immunol 53, 2023. doi: 10.1002/EJI.202250224.
+- De Biasi S, Neroni A, Nasi M, Lo Tartaro D, Borella R, Gibellini L, Lucaccioni L, Bertucci E, Lugli L, Miselli F, Bedetti L, Neri I, Ferrari F, Facchinetti F, Berardi A, Cossarizza A. Healthy preterm newborns: Altered innate immunity and impaired monocyte function. Eur J Immunol 53, 2023. doi: 10.1002/EJI.202250224.
 
-Melville JM, Moss TJM. The immune consequences of preterm birth. Front Neurosci 7, 2013. doi: 10.3389/FNINS.2013.00079.
+- Melville JM, Moss TJM. The immune consequences of preterm birth. Front Neurosci 7, 2013. doi: 10.3389/FNINS.2013.00079.
 
-Hillman NH, Kallapur SG, Jobe AH. Physiology of transition from intrauterine to extrauterine life. Clin Perinatol 39: 769–783, 2012. doi: 10.1016/j.clp.2012.09.009.
+- Hillman NH, Kallapur SG, Jobe AH. Physiology of transition from intrauterine to extrauterine life. Clin Perinatol 39: 769–783, 2012. doi: 10.1016/j.clp.2012.09.009.
 
-Dirks J, Fortmann I, Marißen J, Pagel J, Reichert L, Kipke H, Dammann MT, Göpel W, Birkner T, Dahm K, Forslund-Startceva SK, Viemann D, Rupp J, Morbach H, Härtel C. Effect of gestational age on lymphocyte phenotypes in hospitalized preterm infants. Journal of Allergy and Clinical Immunology 157, 2025. doi: 10.1016/j.jaci.2025.09.030.
+- Dirks J, Fortmann I, Marißen J, Pagel J, Reichert L, Kipke H, Dammann MT, Göpel W, Birkner T, Dahm K, Forslund-Startceva SK, Viemann D, Rupp J, Morbach H, Härtel C. Effect of gestational age on lymphocyte phenotypes in hospitalized preterm infants. Journal of Allergy and Clinical Immunology 157, 2025. doi: 10.1016/j.jaci.2025.09.030.
 
-Zaramella P, Munari F, Stocchero M, Molon B, Nardo D, Priante E, Tosato F, Bonadies L, Viola A, Baraldi E. Innate immunity ascertained from blood and tracheal aspirates of preterm newborn provides new clues for assessing bronchopulmonary dysplasia. PLoS One 14, 2019. doi: 10.1371/JOURNAL.PONE.0221206.
+- Zaramella P, Munari F, Stocchero M, Molon B, Nardo D, Priante E, Tosato F, Bonadies L, Viola A, Baraldi E. Innate immunity ascertained from blood and tracheal aspirates of preterm newborn provides new clues for assessing bronchopulmonary dysplasia. PLoS One 14, 2019. doi: 10.1371/JOURNAL.PONE.0221206.
 
-Moreira A, Noronha M, Joy J, Bierwirth N, Tarriela A, Naqvi A, Zoretic S, Jones M, Marotta A, Valadie T, Brick J, Winter C, Porter M, Decker I, Bruschettini M, Ahuja SK. Rates of bronchopulmonary dysplasia in very low birth weight neonates: a systematic review and meta-analysis. Respir Res 25: 1–11, 2024. doi: 10.1186/S12931-024-02850-X/TABLES/2.
+- Moreira A, Noronha M, Joy J, Bierwirth N, Tarriela A, Naqvi A, Zoretic S, Jones M, Marotta A, Valadie T, Brick J, Winter C, Porter M, Decker I, Bruschettini M, Ahuja SK. Rates of bronchopulmonary dysplasia in very low birth weight neonates: a systematic review and meta-analysis. Respir Res 25: 1–11, 2024. doi: 10.1186/S12931-024-02850-X/TABLES/2.
 
-Thébaud B, Abman SH. Bronchopulmonary Dysplasia. Am J Respir Crit Care Med 175: 978–985, 2007. doi: 10.1164/rccm.200611-1660PP.
+- Thébaud B, Abman SH. Bronchopulmonary Dysplasia. Am J Respir Crit Care Med 175: 978–985, 2007. doi: 10.1164/rccm.200611-1660PP.
 
-Sampah MES, Hackam DJ. Dysregulated Mucosal Immunity and Associated Pathogeneses in Preterm Neonates. Front Immunol 11, 2020. doi: 10.3389/FIMMU.2020.00899.
+- Sampah MES, Hackam DJ. Dysregulated Mucosal Immunity and Associated Pathogeneses in Preterm Neonates. Front Immunol 11, 2020. doi: 10.3389/FIMMU.2020.00899.
 
 Humberg A, Fortmann I, Siller B, Kopp MV, Herting E, Göpel W, Härtel C. Preterm birth and sustained inflammation: consequences for the neonate. Semin Immunopathol 42: 451–468, 2020. doi: 10.1007/S00281-020-00803-2.
 
