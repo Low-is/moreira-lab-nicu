@@ -10,7 +10,7 @@ This project investigates how developmental age and lung injury shape immune cel
 
 ## Cohort Characteristics
 | Sample Name | Age at Birth | Life Span | Age at Death | COD | DX |
---------------------------------------------------------------------
+|-------------|--------------|-----------|--------------|-----|----|
 | PDL001 | 16 weeks | 0 weeks | 16 weeks | Not viable | n/a |
 | PDL002 | 18 weeks | 0 weeks | 18 weeks | Not viable | n/a |
 | PDL003 | 21 weeks | 0 weeks | 21 weeks | Prematurity | 1 |
