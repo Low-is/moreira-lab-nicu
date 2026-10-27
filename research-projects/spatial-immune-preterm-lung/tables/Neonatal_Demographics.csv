@@ -1,0 +1,18 @@
+﻿Sample,Phenotype,Age at Birth,Life Span,Age at Death,COD,DX
+PDL001,Fetal,16 weeks,0 weeks,16 weeks,Not viable,N/A
+PDL002,Fetal,18 weeks,0 weeks,18 weeks,Not viable,N/A
+PDL003,Preterm - uninured,21 weeks,0 weeks,21 weels,Prematurity,1
+PDL004,Preterm - injured,23 weeks,7 weeks,30 weeks,Necrotizing enterocolitis,1
+PDL005,Preterm - uninjured,24 weeks,0 weeks,24 weeks,Prematurity,3
+PDL006,Preterm - uninjured,24 weeks,0 weeks,24 weeks,Prematurity,0
+PDL007,Preterm - injured,26 weeks,2 weeks,28 weeks,Pulmonary Hypoplasia,1
+PDL008,Preterm - injured,27 weeks,16 weeks,43 weeks,BPD,2
+PDL009,Preterm - injured,28 weeks,3 weeks,31 weeks,E. coli sepsis & congenital heart disease,2
+PDL010,Term - uninjured,34 weeks,4 weeks,38 weeks,Meningitis,3
+PDL011,Term - uninjured,35 weeks,0 weeks,35 weeks,Hypoxic-Ischemic Encephalopathy,0
+PDL012,Term - uninjured,40 weeks,0 weeks,40 weeks,Hypoxic-Ischemic Encephalopathy,0
+PDL013,Term - uninjured,36 weeks,0 weeks,36 weeks,Encephalitis ,0
+PDL014,Rare disease,29 weeks,0 weeks,29 weeks,CHAOS syndrome,N/A
+PDL015,Rare disease,33 weeks,0 weeks,33 weeks,Pulmonary Hypoplasia,N/A
+PDL016,Rare disease,35 weeks,28 weeks,63 weeks,ARB fetopathy (severe BPD),N/A
+PDL017,Rare disease ,28 weeks,30 years,N/A,BPD (explant of adult with BPD),N/A
